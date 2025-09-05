@@ -1,0 +1,11 @@
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Domain\bin\Debug\net8.0\PlantAIProject.Domain.deps.json
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Domain\bin\Debug\net8.0\PlantAIProject.Domain.dll
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Domain\bin\Debug\net8.0\PlantAIProject.Domain.pdb
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Domain\obj\Debug\net8.0\PlantAIProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Domain\obj\Debug\net8.0\PlantAIProject.Domain.AssemblyInfoInputs.cache
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Domain\obj\Debug\net8.0\PlantAIProject.Domain.AssemblyInfo.cs
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Domain\obj\Debug\net8.0\PlantAIProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Domain\obj\Debug\net8.0\PlantAIProject.Domain.dll
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Domain\obj\Debug\net8.0\refint\PlantAIProject.Domain.dll
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Domain\obj\Debug\net8.0\PlantAIProject.Domain.pdb
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Domain\obj\Debug\net8.0\ref\PlantAIProject.Domain.dll

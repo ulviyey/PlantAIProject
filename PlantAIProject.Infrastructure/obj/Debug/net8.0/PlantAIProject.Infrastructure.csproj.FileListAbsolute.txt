@@ -1,0 +1,11 @@
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Infrastructure\bin\Debug\net8.0\PlantAIProject.Infrastructure.deps.json
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Infrastructure\bin\Debug\net8.0\PlantAIProject.Infrastructure.dll
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Infrastructure\bin\Debug\net8.0\PlantAIProject.Infrastructure.pdb
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Infrastructure\obj\Debug\net8.0\PlantAIProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Infrastructure\obj\Debug\net8.0\PlantAIProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Infrastructure\obj\Debug\net8.0\PlantAIProject.Infrastructure.AssemblyInfo.cs
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Infrastructure\obj\Debug\net8.0\PlantAIProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Infrastructure\obj\Debug\net8.0\PlantAIProject.Infrastructure.dll
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Infrastructure\obj\Debug\net8.0\refint\PlantAIProject.Infrastructure.dll
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Infrastructure\obj\Debug\net8.0\PlantAIProject.Infrastructure.pdb
+C:\Users\ulviye\source\repos\PlantAIProject\PlantAIProject.Infrastructure\obj\Debug\net8.0\ref\PlantAIProject.Infrastructure.dll

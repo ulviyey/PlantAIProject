@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE67F81-9249-48A0-A003-F20886BDCDB7}|PlantAIProject.Api\\PlantAIProject.Api.csproj|c:\\users\\ulviye\\source\\repos\\plantaiproject\\plantaiproject.api\\plantaiproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAE67F81-9249-48A0-A003-F20886BDCDB7}|PlantAIProject.Api\\PlantAIProject.Api.csproj|solutionrelative:plantaiproject.api\\plantaiproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\obj\\Debug\\net8.0\\PlantAIProject.API.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\PlantAIProject.API.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58172E6A-4B9A-47F3-8D08-714C3ACDE288}|PlantAIProject.Domain\\PlantAIProject.Domain.csproj|c:\\users\\ulviye\\source\\repos\\plantaiproject\\plantaiproject.domain\\entities\\analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58172E6A-4B9A-47F3-8D08-714C3ACDE288}|PlantAIProject.Domain\\PlantAIProject.Domain.csproj|solutionrelative:plantaiproject.domain\\entities\\analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58172E6A-4B9A-47F3-8D08-714C3ACDE288}|PlantAIProject.Domain\\PlantAIProject.Domain.csproj|c:\\users\\ulviye\\source\\repos\\plantaiproject\\plantaiproject.domain\\entities\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58172E6A-4B9A-47F3-8D08-714C3ACDE288}|PlantAIProject.Domain\\PlantAIProject.Domain.csproj|solutionrelative:plantaiproject.domain\\entities\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58172E6A-4B9A-47F3-8D08-714C3ACDE288}|PlantAIProject.Domain\\PlantAIProject.Domain.csproj|c:\\users\\ulviye\\source\\repos\\plantaiproject\\plantaiproject.domain\\plantaiproject.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58172E6A-4B9A-47F3-8D08-714C3ACDE288}|PlantAIProject.Domain\\PlantAIProject.Domain.csproj|solutionrelative:plantaiproject.domain\\plantaiproject.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E690CE1-BB53-40E2-89A3-61B724EB05B1}|PlantAIProject.Application\\PlantAIProject.Application.csproj|c:\\users\\ulviye\\source\\repos\\plantaiproject\\plantaiproject.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E690CE1-BB53-40E2-89A3-61B724EB05B1}|PlantAIProject.Application\\PlantAIProject.Application.csproj|solutionrelative:plantaiproject.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58172E6A-4B9A-47F3-8D08-714C3ACDE288}|PlantAIProject.Domain\\PlantAIProject.Domain.csproj|c:\\users\\ulviye\\source\\repos\\plantaiproject\\plantaiproject.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58172E6A-4B9A-47F3-8D08-714C3ACDE288}|PlantAIProject.Domain\\PlantAIProject.Domain.csproj|solutionrelative:plantaiproject.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlantAIProject.Api",
+              "DocumentMoniker": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Api\\PlantAIProject.Api.csproj",
+              "RelativeDocumentMoniker": "PlantAIProject.Api\\PlantAIProject.Api.csproj",
+              "ToolTip": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Api\\PlantAIProject.Api.csproj",
+              "RelativeToolTip": "PlantAIProject.Api\\PlantAIProject.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T20:56:26.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Analysis.cs",
+              "DocumentMoniker": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Domain\\Entities\\Analysis.cs",
+              "RelativeDocumentMoniker": "PlantAIProject.Domain\\Entities\\Analysis.cs",
+              "ToolTip": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Domain\\Entities\\Analysis.cs",
+              "RelativeToolTip": "PlantAIProject.Domain\\Entities\\Analysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T00:14:08.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Domain\\Entities\\Photo.cs",
+              "RelativeDocumentMoniker": "PlantAIProject.Domain\\Entities\\Photo.cs",
+              "ToolTip": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Domain\\Entities\\Photo.cs",
+              "RelativeToolTip": "PlantAIProject.Domain\\Entities\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T00:12:41.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlantAIProject.API.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\obj\\Debug\\net8.0\\PlantAIProject.API.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\PlantAIProject.API.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\obj\\Debug\\net8.0\\PlantAIProject.API.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\PlantAIProject.API.AssemblyInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T02:12:42.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlantAIProject.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Domain\\PlantAIProject.Domain.csproj",
+              "RelativeDocumentMoniker": "PlantAIProject.Domain\\PlantAIProject.Domain.csproj",
+              "ToolTip": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Domain\\PlantAIProject.Domain.csproj",
+              "RelativeToolTip": "PlantAIProject.Domain\\PlantAIProject.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T00:10:37.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "PlantAIProject.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Application\\Class1.cs",
+              "RelativeToolTip": "PlantAIProject.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T00:01:46.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "PlantAIProject.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Domain\\Class1.cs",
+              "RelativeToolTip": "PlantAIProject.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T00:00:18.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
