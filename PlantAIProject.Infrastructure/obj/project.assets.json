@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "PlantAIProject.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PlantAIProject.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlantAIProject.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PlantAIProject.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PlantAIProject.Domain/PlantAIProject.Domain.csproj",
+      "msbuildProject": "../PlantAIProject.Domain/PlantAIProject.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "PlantAIProject.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ulviye\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Domain\\PlantAIProject.Domain.csproj": {
+              "projectPath": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Domain\\PlantAIProject.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
