@@ -95,6 +95,42 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "PlantAIProject.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PlantAIProject.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PlantAIProject.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlantAIProject.Application.dll": {}
+        }
+      },
+      "PlantAIProject.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PlantAIProject.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlantAIProject.Domain.dll": {}
+        }
+      },
+      "PlantAIProject.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PlantAIProject.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PlantAIProject.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlantAIProject.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -526,11 +562,28 @@
         "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "PlantAIProject.Application/1.0.0": {
+      "type": "project",
+      "path": "../PlantAIProject.Application/PlantAIProject.Application.csproj",
+      "msbuildProject": "../PlantAIProject.Application/PlantAIProject.Application.csproj"
+    },
+    "PlantAIProject.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PlantAIProject.Domain/PlantAIProject.Domain.csproj",
+      "msbuildProject": "../PlantAIProject.Domain/PlantAIProject.Domain.csproj"
+    },
+    "PlantAIProject.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../PlantAIProject.Infrastructure/PlantAIProject.Infrastructure.csproj",
+      "msbuildProject": "../PlantAIProject.Infrastructure/PlantAIProject.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.22.1",
+      "PlantAIProject.Application >= 1.0.0",
+      "PlantAIProject.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -566,7 +619,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Application\\PlantAIProject.Application.csproj": {
+              "projectPath": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Application\\PlantAIProject.Application.csproj"
+            },
+            "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Infrastructure\\PlantAIProject.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ulviye\\source\\repos\\PlantAIProject\\PlantAIProject.Infrastructure\\PlantAIProject.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
